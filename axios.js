@@ -36,10 +36,10 @@ const changeText = () =>{
   setTimeout(() => {
     
     text.textContent = "Baixando dados..."
-  }, 3300);
+  }, 4300);
   setTimeout(() => {
     
     text.textContent = "Gerando PDF..."
-  }, 8000);
+  }, 9000);
 
 }
